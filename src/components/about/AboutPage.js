@@ -7,7 +7,7 @@ const AboutPage = () => {
         <p>Some about shit</p>
       </div>
     );
-  
+
 }
 
 export {AboutPage};

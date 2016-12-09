@@ -4,7 +4,7 @@ import {Link, IndexLink} from 'react-router';
 const Footer = () => {
    return (
      <footer>
-         <small>Your ass is copyrighted</small>
+         <small>Your ass is copyrighted sorry</small>
      </footer>
    );
 };
